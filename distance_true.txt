@@ -1,0 +1,5 @@
+B.thetaiotaomicron  D.turgidum  E.coli   Synechocystis
+0                   765         767      765
+765                 0           759      763
+767                 759         0        761
+765                 763         761      0
